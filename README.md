@@ -20,10 +20,10 @@ English : HELLO,my name is Dzaki Ahnaf Z,i'm student of senior high school at sm
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaki236&layout=compact&theme=great-gatsby">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaki236&layout=compact&theme=great-gatsby" />
 </a>
-
+<!-- 
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=dzaki236&repo=github-readme-stats&theme=great-gatsby">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzaki236&repo=github-readme-stats&theme=great-gatsby" />
 </a>    
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=dzaki236&repo=dzaki236.github.io&theme=great-gatsby">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzaki236&repo=dzaki236.github.io&theme=great-gatsby" />
-</a>
+</a> -->
