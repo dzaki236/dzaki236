@@ -12,4 +12,18 @@ English : HELLO,my name is Dzaki Ahnaf Z,i'm student of senior high school at sm
 -  My github stats (bad stats :'/ ) : 
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dzaki236&theme=great-gatsby&show_icons=true)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dzaki236&theme=great-gatsby&show_icons=true) -->
+
+<a href="https://github-readme-stats.vercel.app/api?username=dzaki236&show_icons=true&include_all_commits=true&theme=great-gatsby">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dzaki236&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="dzaki236 github stats" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaki236&layout=compact&theme=great-gatsby">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaki236&layout=compact&theme=great-gatsby" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=dzaki236&repo=github-readme-stats&theme=great-gatsby">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzaki236&repo=github-readme-stats&theme=great-gatsby" />
+</a>    
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=dzaki236&repo=dzaki236.github.io&theme=great-gatsby">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzaki236&repo=dzaki236.github.io&theme=great-gatsby" />
+</a>
