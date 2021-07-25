@@ -12,4 +12,4 @@ English : HELLO,my name is Dzaki Ahnaf Z,i'm student of senior high school at sm
 -  My github stats (bad stats :'/ ) : 
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dzaki236&theme=dark&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dzaki236&theme=highcontrast&show_icons=true)
