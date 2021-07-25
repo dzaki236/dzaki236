@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
+## Introduce my name
+<!-- **dzaki236/dzaki236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-**dzaki236/dzaki236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Laravel & React Native
 - 🌱 I’m currently learning Laravel & React Native
