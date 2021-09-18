@@ -7,7 +7,7 @@ English : HELLO,my name is Dzaki Ahnaf Z,i'm student of senior high school at sm
 
 <!-- Here are some ideas to get you started: -->
 ---
-**Languages and Tools that i use :**  
+**🔧 Languages and Tools that i use :**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
@@ -19,7 +19,7 @@ English : HELLO,my name is Dzaki Ahnaf Z,i'm student of senior high school at sm
 <!-- - 🔭 I’m currently working on Laravel & React Native
 - 🌱 I’m currently learning Laravel & React Native
  -->
-# My github stats (bad stats :'/ ) 
+# ✏️ My github stats (bad stats :'/ ) 
 <div style="width:100%; ">
 <a href="https://github-readme-stats.vercel.app/api?username=dzaki236&show_icons=true&include_all_commits=true&theme=dark">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=dzaki236&show_icons=true&include_all_commits=true&theme=dark" alt="dzaki236 github stats" />
