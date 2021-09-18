@@ -7,7 +7,7 @@ English : HELLO,my name is Dzaki Ahnaf Z,i'm student of senior high school at sm
 
 <!-- Here are some ideas to get you started: -->
 ---
-**Languages and Tools that i use recently:**  
+**Languages and Tools that i use :**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
