@@ -25,6 +25,6 @@ English : HELLO,my name is Dzaki Ahnaf Z,i'm student of senior high school at sm
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=dzaki236&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="dzaki236 github stats" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaki236&layout=compact&theme=great-gatsby">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaki236&layout=compact&theme=dark" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaki236&layout=compact&theme=dark&theme=great-gatsby" />
 </a>
 </div>
