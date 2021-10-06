@@ -1,5 +1,6 @@
 # Hi there 👋
-<img src="https://avatars.githubusercontent.com/u/61301953?v=4"/>
+<img src="https://avatars.githubusercontent.com/u/61301953?v=4" style="width:40%;"/>
+Profile
 <br>
 
 Indonesia : HELLO,nama saya Dzaki Ahnaf Z / A.K.A D[Z]6 ,Seorang siswa smk taruna bhakti depok angkatan 2019/2022, lahir dan tinggal di depok, repository random dan tugas tugas sekolah,serta tempat latihan coding,semuanya saya post repositorynya di akun github saya,bila ingin mengenal saya lebih dekat,bisa dm via instagram/klik link ini,terima kasih.
