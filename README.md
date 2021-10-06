@@ -1,5 +1,5 @@
 # Hi there 👋
-<img src="https://avatars.githubusercontent.com/u/61301953?v=4" style="width:40%;"/>
+<img src="https://avatars.githubusercontent.com/u/61301953?v=4" style="width:20%;"/>
 Profile
 <br>
 
