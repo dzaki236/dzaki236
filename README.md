@@ -34,3 +34,6 @@ English : HELLO,my name is Dzaki Ahnaf Z / A.K.A D[Z]6 ,i'm student of senior hi
 </a>
 </div>
 <hr/>
+
+# Experience 
+- Junior trainer laravel at rumah coding
