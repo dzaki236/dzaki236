@@ -37,5 +37,5 @@ English : HELLO,my name is Dzaki Ahnaf Z / A.K.A D[Z]6 ,i'm student of senior hi
 <hr/>
 
 # Experience 
-- Junior trainer laravel at rumah coding
+- Junior trainer. 
 - creator ebook "get started laravel mvc basic"
