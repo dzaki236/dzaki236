@@ -38,6 +38,7 @@ English : HELLO,my name is Dzaki Ahnaf Z / A.K.A D[Z]6 ,i'm student of senior hi
 <!-- <h3 align="left"> My Github Stats:</h3> -->
 <img src="https://github-profile-trophy.vercel.app/?username=dzaki236&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
+<hr/>
 ![github](https://img.shields.io/badge/dzaki236-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <!-- # Experience (nt all) 
