@@ -43,5 +43,6 @@ English : HELLO,my name is Dzaki Ahnaf Z / A.K.A D[Z]6 ,i'm student of senior hi
 ![github](https://img.shields.io/badge/dzaki236-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <!-- # Experience (nt all) 
-- Junior trainer. 
-- creator ebook "get started laravel mvc basic" -->
+- Junior dev
+
+https://badges.pufler.dev/visits/dzaki236
