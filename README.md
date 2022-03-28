@@ -44,5 +44,5 @@ English : HELLO,my name is Dzaki Ahnaf Z / A.K.A D[Z]6 ,i'm student of senior hi
 
 <!-- # Experience (nt all) 
 - Junior dev
+[![Repos Badge](https://badges.pufler.dev/repos/puf17640)]https://badges.pufler.dev/repos/dzaki236)
 
-https://badges.pufler.dev/repos/dzaki236
