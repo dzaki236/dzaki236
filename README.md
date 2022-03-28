@@ -42,7 +42,5 @@ English : HELLO,my name is Dzaki Ahnaf Z / A.K.A D[Z]6 ,i'm student of senior hi
 #
 ![github](https://img.shields.io/badge/dzaki236-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-- Junior dev
-<br>
 [![Repos Badge](https://badges.pufler.dev/repos/dzaki236)](https://badges.pufler.dev/repos/dzaki236)
 
