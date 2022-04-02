@@ -44,3 +44,15 @@ English : HELLO,my name is Dzaki Ahnaf Z / A.K.A D[Z]6 ,i'm student of senior hi
 
 [![Repos Badge](https://badges.pufler.dev/repos/dzaki236)](https://badges.pufler.dev/repos/dzaki236)
 [![Years Badge](https://badges.pufler.dev/years/dzaki236)](https://badges.pufler.dev)
+
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+    - 🔭 I’m currently working on Backend (today) </br>
+    - 🌱 I’m currently learning Php,Javascript and Docker </br>
+    - 👯 I’m looking to collaborate on Website Project, Web Apps. </br>
+    - 🤔 I’m looking for help with pro of programming. hehe </br>
+    - 💬 Ask me about anything.</br>
+    - 📫 How to reach me: <a href="mailto:uidzaki@gmail.com">Email me!</a>  </br>
+    - 😄 Pronouns: He/Him </br>
+    - ⚡ Fun fact: ... </br>
+</details>
