@@ -57,3 +57,10 @@ English : HELLO,my name is Dzaki Ahnaf Z / A.K.A D[Z]6 ,i'm student of senior hi
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
+<details>
+ <summary><strong>What i am learning/working on next days</strong></summary>
+    - 📱 Mobile Developer (Flutter)
+    - 😣 Fullstack Developer (Possiblity)
+</details>
+  
+
