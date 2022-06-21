@@ -62,7 +62,7 @@ English : HELLO,my name is Dzaki Ahnaf Z / A.K.A D[Z]6 ,i'm student of senior hi
     - 📱 Mobile Developer (Flutter) <br>
     - 😣 Fullstack Developer (<b>If possible
   </b>) <br>
-    - 
+    - 🖥️ Devops 
 </details>
   
 
