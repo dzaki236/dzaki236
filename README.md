@@ -2,7 +2,6 @@
 [![MasterHead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dzaki Ahnaf Z</h1>
 <h3 align="center">A passionate fullstack developer from Indonesian</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!-- ## Introduce my name -->
 <!-- **dzaki236/dzaki236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
