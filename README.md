@@ -1,4 +1,4 @@
-# Hi there 👋
+<!-- # Hi there 👋 -->
 <!-- [![MasterHead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)](https://rishavchanda.io) -->
 <p align="center">
 <img align="center" alt="Coding" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
