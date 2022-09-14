@@ -16,6 +16,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dart/dart-icon.svg" alt="dart" width="40" height="40"/> </a>
 </p>
 
 <!-- - 🔭 I’m currently working on Laravel & React Native -->
