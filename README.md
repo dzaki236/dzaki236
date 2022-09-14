@@ -1,11 +1,8 @@
 # Hi there 👋
-<img src="https://avatars.githubusercontent.com/u/61301953?v=4" style="width:20%;"/>
-<h2>Profile</h2>
-<br>
-
-Indonesia : HELLO,nama saya Dzaki Ahnaf Z / A.K.A D[Z]6
-
-English : HELLO,my name is Dzaki Ahnaf Z / A.K.A D[Z]6 
+[![MasterHead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!-- ## Introduce my name -->
 <!-- **dzaki236/dzaki236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
