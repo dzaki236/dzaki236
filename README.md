@@ -26,6 +26,7 @@
 <!-- - 🔭 I’m currently working on Laravel & React Native -->
 ## 🌱 What i want to learn next : 
 - UI/UX
+- Mobile Developer
 - CyberSecurity
 - DevOps
 # ✏️ My github stats (bad stats :'/ ) 
