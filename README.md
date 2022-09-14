@@ -1,7 +1,8 @@
 # Hi there 👋
 <!-- [![MasterHead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)](https://rishavchanda.io) -->
-<img align="center" alt="Coding" width="100%" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
-
+<center>
+<img align="center" alt="Coding" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
+</center>
 <h1 align="center">Hi 👋, I'm Dzaki Ahnaf Z</h1>
 <h3 align="center">A passionate fullstack developer from Indonesian</h3>
 <!-- ## Introduce my name -->
