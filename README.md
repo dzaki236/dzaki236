@@ -24,7 +24,7 @@
 </p>
 
 <!-- - 🔭 I’m currently working on Laravel & React Native -->
-## 🌱 Languages and Tools that i want to learn : 
+## 🌱 What i want to learn next : 
 - UI/UX
 - CyberSecurity
 - DevOps
