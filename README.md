@@ -9,7 +9,7 @@
 <!-- **dzaki236/dzaki236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
----
+<!-- --- -->
 ## 🔧 Languages and Tools that i use :
 
 <p align="left">
@@ -27,7 +27,7 @@
 ## 🌱 Languages and Tools that i want to learn : 
 - UI/UX
 - CyberSecurity
-- Docker
+- DevOps
 # ✏️ My github stats (bad stats :'/ ) 
 <div style="width:100%; ">
 <a href="https://github-readme-stats.vercel.app/api?username=dzaki236&show_icons=true&include_all_commits=true&theme=dark">
@@ -41,7 +41,7 @@
 <!-- <h3 align="left"> My Github Stats:</h3> -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=dzaki236&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)"> -->
 
-#
+<!-- # -->
 <!-- ![github](https://img.shields.io/badge/dzaki236-000000?style=for-the-badge&logo=GitHub&logoColor=white) -->
 
 <!-- [![Repos Badge](https://badges.pufler.dev/repos/dzaki236)](https://badges.pufler.dev/repos/dzaki236)
