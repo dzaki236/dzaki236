@@ -39,13 +39,13 @@
 </div>
 <hr/>
 <!-- <h3 align="left"> My Github Stats:</h3> -->
-<img src="https://github-profile-trophy.vercel.app/?username=dzaki236&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=dzaki236&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)"> -->
 
 #
 <!-- ![github](https://img.shields.io/badge/dzaki236-000000?style=for-the-badge&logo=GitHub&logoColor=white) -->
 
-[![Repos Badge](https://badges.pufler.dev/repos/dzaki236)](https://badges.pufler.dev/repos/dzaki236)
-[![Years Badge](https://badges.pufler.dev/years/dzaki236)](https://badges.pufler.dev)
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/dzaki236)](https://badges.pufler.dev/repos/dzaki236)
+[![Years Badge](https://badges.pufler.dev/years/dzaki236)](https://badges.pufler.dev) -->
 
 <!-- <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
