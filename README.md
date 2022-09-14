@@ -60,6 +60,7 @@
 </details> -->
 <details>
  <summary><strong>What i am learning/working on next days</strong></summary>
+    - 🌐 Web Developer (Laravel&PostgreSql) <br>
     - 📱 Mobile Developer (Flutter) <br>
     - 😣 Fullstack Developer (<b>If possible
   </b>) <br>
