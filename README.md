@@ -25,11 +25,9 @@
 
 <!-- - 🔭 I’m currently working on Laravel & React Native -->
 ## 🌱 Languages and Tools that i want to learn : 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
+- UI/UX
+- CyberSecurity
+- Docker
 # ✏️ My github stats (bad stats :'/ ) 
 <div style="width:100%; ">
 <a href="https://github-readme-stats.vercel.app/api?username=dzaki236&show_icons=true&include_all_commits=true&theme=dark">
@@ -44,12 +42,12 @@
 <img src="https://github-profile-trophy.vercel.app/?username=dzaki236&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 #
-![github](https://img.shields.io/badge/dzaki236-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+<!-- ![github](https://img.shields.io/badge/dzaki236-000000?style=for-the-badge&logo=GitHub&logoColor=white) -->
 
 [![Repos Badge](https://badges.pufler.dev/repos/dzaki236)](https://badges.pufler.dev/repos/dzaki236)
 [![Years Badge](https://badges.pufler.dev/years/dzaki236)](https://badges.pufler.dev)
 
-<details>
+<!-- <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on Backend (today) </br>
     - 🌱 I’m currently learning Php,Javascript and Docker </br>
@@ -59,7 +57,7 @@
     - 📫 How to reach me: <a href="mailto:uidzaki@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
-</details>
+</details> -->
 <details>
  <summary><strong>What i am learning/working on next days</strong></summary>
     - 📱 Mobile Developer (Flutter) <br>
