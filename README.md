@@ -29,8 +29,8 @@
 ## 🌱 What i want to learn next : 
 - UI/UX
 - Mobile Developer
-- CyberSecurity
-- DevOps
+<!-- - CyberSecurity
+- DevOps -->
 # ✏️ My github stats (bad stats :'/ ) 
 <div style="width:100%; ">
 <a href="https://github-readme-stats.vercel.app/api?username=dzaki236&show_icons=true&include_all_commits=true&theme=dark">
