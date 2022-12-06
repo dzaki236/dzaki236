@@ -68,5 +68,18 @@
     - 😣 Fullstack Developer (<b>If possible</b>) <br>
     - 🖥️ Devops 
 </details>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=dzaki236)
+
+</details>
+
+<!-- <details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/dzaki236?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+
+</details> -->
   
 
