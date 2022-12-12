@@ -74,10 +74,24 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=dzaki236)
 
 </details>
-<!-- --- -->
-![Github URL](https://img.shields.io/twitter/url?color=24292e&label=Rqwannn&logo=github&style=flat-square&url=https://github.com/dzaki236)](https://github.com/dzaki236)
-<!-- [![Linkedin URL](https://img.shields.io/twitter/url?color=0072b1&label=Muhammad+Raqwan+Kauthar&logo=linkedin&style=flat-square&url=https://www.linkedin.com/in/muhammad-raqwan-kauthar-5427b221a/)](https://www.linkedin.com/in/muhammad-raqwan-kauthar-5427b221a/) -->
-![Instagram URL](https://img.shields.io/twitter/url?color=e4405f&label=_rqwannn&logo=instagram&style=flat-square&url=https://instagram.com/lemonic_dev)](https://instagram.com/lemonic_dev)
+
+<div align="center">
+
+---
+
+<img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  width=60% height=40%>
+<h5><i>"Yeay tomorrow is friday 😬"</i></h5>
+
+
+[![Github URL](https://img.shields.io/twitter/url?color=24292e&label=Rqwannn&logo=github&style=flat-square&url=https://github.com/Rqwannn)](https://github.com/Rqwannn)
+[![Linkedin URL](https://img.shields.io/twitter/url?color=0072b1&label=Muhammad+Raqwan+Kauthar&logo=linkedin&style=flat-square&url=https://www.linkedin.com/in/muhammad-raqwan-kauthar-5427b221a/)](https://www.linkedin.com/in/muhammad-raqwan-kauthar-5427b221a/)
+[![Instagram URL](https://img.shields.io/twitter/url?color=e4405f&label=_rqwannn&logo=instagram&style=flat-square&url=https://instagram.com/_rqwannn)](https://instagram.com/_rqwannn)
+![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=mraqwan471@gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fgmail.com)
+
+[![wakatime](https://wakatime.com/badge/user/4f7f58c2-881e-4449-9f40-99702e802f9e.svg)](https://wakatime.com/@Rqwannn)
+![Viewer](https://komarev.com/ghpvc/?username=Rqwannn)
+
+</div>
 <!-- <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
