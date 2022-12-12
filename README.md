@@ -80,7 +80,7 @@
 ---
 
 <!-- <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  width=60% height=40%> -->
-<h5><i>"Yeay tomorrow is friday 😬"</i></h5>
+<h5><i>"Open For Freelancer Commision 😬"</i></h5>
 
 
 [![Github URL](https://img.shields.io/twitter/url?color=24292e&label=dzaki236&logo=github&style=flat-square&url=https://github.com/dzaki236)](https://github.com/dzaki236)
