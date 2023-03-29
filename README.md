@@ -1,5 +1,5 @@
 <!-- # Hi there 👋 -->
-<!-- [![MasterHead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)](https://rishavchanda.io) -->
+[![MasterHead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)](https://dzakiahnafz.my.id)
 <p align="center">
 <img align="center" alt="Coding" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 </p>
