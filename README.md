@@ -27,12 +27,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
-<!-- - 🔭 I’m currently working on Laravel & React Native -->
+- 😴 I’m currently lazy to work with frontend
 ## 🌱 What i want to learn next : 
 - UI/UX
 - Mobile Developer
-<!-- - CyberSecurity
-- DevOps -->
+<!-- - CyberSecurity -->
+- DevOps 
 # ✏️ My github stats (bad stats :'/ ) 
 <div style="width:100%; ">
 <a href="https://github-readme-stats.vercel.app/api?username=dzaki236&show_icons=true&include_all_commits=true&theme=dark">
