@@ -32,8 +32,8 @@
 
 - 😴 I’m currently lazy to work with frontend
 ## 🌱 What i want to learn next : 
-- UI/UX
-- Mobile Developer
+<!-- - UI/UX -->
+- Quality Automation (Q.A)
 <!-- - CyberSecurity -->
 - DevOps 
 # ✏️ My github stats (bad stats :'/ ) 
