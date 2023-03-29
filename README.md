@@ -30,11 +30,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
-- 😴 I’m currently lazy to work with frontend
+### 😴 I’m currently lazy to work with frontend
 ## 🌱 What i want to learn next : 
 <!-- - UI/UX -->
-- Quality Automation (Q.A)
 <!-- - CyberSecurity -->
+- Quality Automation (Q.A)
 - DevOps 
 # ✏️ My github stats (bad stats :'/ ) 
 <div style="width:100%; ">
