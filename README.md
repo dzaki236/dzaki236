@@ -1,7 +1,7 @@
 <!-- # Hi there 👋 -->
-[![MasterHead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)](https://dzakiahnafz.my.id)
+<!-- [![MasterHead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)](https://dzakiahnafz.my.id) -->
 <p align="center">
-<img align="center" alt="Coding" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
+<img align="center" alt="Coding" width="450" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Dzaki Ahnaf Z</h1>
 <h3 align="center">A passionate fullstack developer from Indonesian</h3>
