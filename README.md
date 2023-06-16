@@ -4,7 +4,7 @@
 <img align="center" alt="Coding" width="450" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Dzaki Ahnaf Z</h1>
-<h3 align="center">Android developer (native/hybrid), and website enthusiast </h3>
+<h3 align="center">Android developer (native/hybrid), website and ui/ux enthusiast </h3>
 <!-- ## Introduce my name -->
 <!-- **dzaki236/dzaki236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -28,12 +28,12 @@
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
   <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
 <!--   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.android.com/)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
 </p>
 
 ### 😴 I’m currently lazy to work with frontend
 ## 🌱 What i want to learn next : 
-<!-- - UI/UX -->
+- UI/UX 
 <!-- - CyberSecurity -->
 - Quality Automation (Q.A)
 - DevOps 
