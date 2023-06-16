@@ -31,7 +31,7 @@
   <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.android.com/)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
 </p>
 
-### 😴 I’m currently lazy to work with frontend
+### 😴 I’m currently lazy to do any
 ## 🌱 What i want to learn next : 
 - UI/UX 
 <!-- - CyberSecurity -->
