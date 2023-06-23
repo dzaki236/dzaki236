@@ -4,7 +4,7 @@
 <img align="center" alt="Coding" width="450" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Dzaki Ahnaf Z</h1>
-<h3 align="center">Mobile developer, web developer & designer enthusiast also ui/ux design enthusiast</h3>
+<h3 align="center">Passionable mobile developer, web developer & designer enthusiast also ui/ux design enthusiast</h3>
 <!-- ## Introduce my name -->
 <!-- **dzaki236/dzaki236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
