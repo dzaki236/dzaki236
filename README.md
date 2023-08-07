@@ -38,7 +38,7 @@
 - Quality Automation (Q.A)
 - DevOps
 <!-- - CyberSecurity -->
-# ✏️ My github stats (bad stats :'/ ) 
+<!-- # ✏️ My github stats (bad stats :'/ ) 
 <div style="width:100%; ">
 <a href="https://github-readme-stats.vercel.app/api?username=dzaki236&show_icons=true&include_all_commits=true&theme=dark">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=dzaki236&show_icons=true&include_all_commits=true&theme=dark" alt="dzaki236 github stats" />
@@ -47,7 +47,7 @@
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaki236&theme=dark" />
 </a>
 </div>
-<hr/>
+<hr/>-->
 <!-- <h3 align="left"> My Github Stats:</h3> -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=dzaki236&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)"> -->
 
