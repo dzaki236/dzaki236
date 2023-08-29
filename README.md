@@ -36,7 +36,7 @@
 ## 🌱 What i want to learn next : 
 - UI/UX 
 - Quality Automation (Q.A)
-- DevOps
+<!-- - DevOps -->
 <!-- - CyberSecurity -->
 <!-- # ✏️ My github stats (bad stats :'/ ) 
 <div style="width:100%; ">
