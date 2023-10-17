@@ -70,8 +70,8 @@
 </details> -->
 <details>
  <summary><strong>What i am learning/working</strong></summary>
-    - 🌐 Web Developer (Laravel&PostgreSql) <br>
-    - 📱 Mobile Developer (Flutter) <br>
+    - 🌐 Web Developer (Laravel&Mysql) <br>
+    - 📱 Mobile Developer (Hybrid) <br>
     - 😣 Fullstack Developer (<b>If possible</b>) <br>
     - 🖥️ Devops 
 </details>
