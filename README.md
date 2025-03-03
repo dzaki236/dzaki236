@@ -70,10 +70,9 @@
 </details> -->
 <details>
  <summary><strong>What i am learning/working</strong></summary>
-    - 🌐 Web Developer (Laravel&Mysql) <br>
+    - 🌐 Web Developer (Laravel,Mysql Also React.js) <br>
     - 📱 Mobile Developer (Hybrid) <br>
-    - 😣 Fullstack Developer (<b>If possible</b>) <br>
-    - 🖥️ Devops 
+    - 😣 Fullstack Developer (<b>If possible</b>) <br> 
 </details>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
